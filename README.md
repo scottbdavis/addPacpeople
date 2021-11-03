@@ -23,4 +23,4 @@ see MIT license release in repository.
 
 ![pac man image](PacMan3.png "PacMan")
 
-[Return to Home](https://scottbdavis.github.io/portfolioHome/)
+[Return to Home](https://scottbdavis.github.io/scottbdavis/)
